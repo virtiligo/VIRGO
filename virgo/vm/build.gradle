@@ -1,0 +1,11 @@
+// Compile a shared library from this
+//  code directory, pack it to aar
+//  to be included in app module.
+//
+// Need help with this.
+//
+//  Also add /include to include paths.
+//  We need to compile it as C. (not C++)
+//  We may have to write assembler code
+//   in any time, too.
+
