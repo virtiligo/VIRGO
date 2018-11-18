@@ -101,12 +101,10 @@ android {
   productFlavors {
     free {
       dimension "tier"
-      applicationId 'com.virtiligo.virgovm.free'
     }
 
     paid {
       dimension "tier"
-            applicationId 'com.virtiligo.virgovm.paid'
     }
   }
 
