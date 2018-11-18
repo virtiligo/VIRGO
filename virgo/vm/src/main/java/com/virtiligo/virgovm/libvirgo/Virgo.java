@@ -26,4 +26,14 @@ public class Virgo
      */
     public static native boolean isFeatureEnabled(String feature)
         throws FeatureNotSupportedException;
+        
+    /**
+     * Checks for application tier (paid or free).
+     *
+     * Checking for paid version at the native side
+     *  is required as we build different versions of
+     *  the libvirgo depending on the tier.
+     *  (we don't compile paid features in free build)
+     */
+    public static native boolean isPaid();
 }

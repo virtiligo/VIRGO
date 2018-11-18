@@ -135,6 +135,7 @@ android {
  */
 
 dependencies {
+	compile 'com.android.support:design:+'
 	compile 'com.android.support:appcompat-v7:+'
     compile project(":vm")
     compile fileTree(dir: 'libs', include: ['*.jar'])

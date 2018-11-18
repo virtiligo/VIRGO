@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <dimen name="md_keylines">8dp</dimen>
+        <dimen name="navheader_height">128dp</dimen>
+    </resources>

@@ -3,11 +3,11 @@
     <!-- Base application theme. -->
     <style name="AppTheme.Base" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimary">#36A599</item>
         <!-- Light Indigo -->
-        <item name="colorPrimaryDark">#3949AB</item>
+        <item name="colorPrimaryDark">#067569</item>
         <!-- Dark Indigo -->
-        <item name="colorAccent">#00B0FF</item>
+        <item name="colorAccent">#F0C000</item>
         <!-- Blue -->
     </style>
     <style name="AppTheme" parent="AppTheme.Base"></style>
