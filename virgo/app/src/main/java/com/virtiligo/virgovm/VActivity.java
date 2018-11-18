@@ -56,7 +56,7 @@ public class VActivity extends AppCompatActivity
         
         if (supportActionBar != null)
         {
-            supportActionBar.setHomeAsUpIndicator(R.drawable.idd_menu_white_24_dp);
+            supportActionBar.setHomeAsUpIndicator(R.drawable.idd_menu_white_16_dp);
             supportActionBar.setDisplayHomeAsUpEnabled(true);
         }
         

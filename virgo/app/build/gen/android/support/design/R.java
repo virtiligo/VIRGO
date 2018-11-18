@@ -2419,9 +2419,10 @@ containing a value of this type.
         public static final int idd_app_icon=0x7f020049;
         public static final int idd_home_100_dp=0x7f02004a;
         public static final int idd_menu_white_100_dp=0x7f02004b;
-        public static final int idd_menu_white_24_dp=0x7f02004c;
-        public static final int idd_settings_100_dp=0x7f02004d;
-        public static final int notification_template_icon_bg=0x7f02004e;
+        public static final int idd_menu_white_16_dp=0x7f02004c;
+        public static final int idd_menu_white_24_dp=0x7f02004d;
+        public static final int idd_settings_100_dp=0x7f02004e;
+        public static final int notification_template_icon_bg=0x7f02004f;
     }
     public static final class id {
         public static final int action0=0x7f060076;
